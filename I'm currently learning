@@ -10,3 +10,6 @@
 SESERON/SESERON is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+for I in (92)
+   a1= I*5
+print( a1) 
